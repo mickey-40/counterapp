@@ -68,9 +68,11 @@ img {
   margin: 0 1rem;
   font-size: 1.5rem;
   color: var(--white);
+  font-weight: 700;
   border: none;
   outline: none;
   border-radius: 3px;
+  cursor: pointer;
 }
 
 button.subtract {
